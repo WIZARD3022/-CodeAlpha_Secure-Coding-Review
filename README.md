@@ -42,3 +42,7 @@
     bandit -r -c .bandit.json Wrong.py
     ```
     this will give issues found which means the file data has security issue code.
+## About: -
+Secure code review is the process of systematically examining source code to identify and mitigate security vulnerabilities. The primary goal is to ensure that the code adheres to best security practices and is free from common security flaws that could be exploited by attackers.
+## Tool Used: -
+Bandit is an open-source security linter for Python code. It is designed to find common security issues in Python codebases by analyzing the source code and reporting potential vulnerabilities.
